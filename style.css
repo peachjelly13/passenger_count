@@ -1,0 +1,75 @@
+*{
+  margin:0px;
+  padding:0px;
+
+}
+body{
+  background-color: MediumAquaMarine;
+  color:black;
+
+}
+.btn{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+#increment-btn{
+  width:150px;
+  height:50px;
+  margin-bottom:10px;
+  margin-top:20px;
+  background-color:lightpink;
+  font-weight: bold;
+  border-radius: 20px;
+
+
+}
+#decrement-btn{
+  width:150px;
+  height:50px;
+  background-color:lightgreen;
+  border-radius: 20px;
+  font-weight: bold;
+}
+#incrementby2{
+    margin-top:10px;
+  width:150px;
+  height:50px;
+  background-color:lightyellow;
+  border-radius: 20px;
+    font-weight: bold;
+}
+#decrementby2{
+  margin-top:10px;
+width:150px;
+height:50px;
+background-color:lightblue;
+border-radius: 20px;
+font-weight: bold;
+
+}
+.heading{
+  text-align: center;
+  margin-top:30px;
+  font-size: 15px;
+
+}
+#save{
+
+  margin-top:10px;
+  width:150px;
+  height:50px;
+  background-color:lightCoral;
+  border-radius: 20px;
+  font-weight: bold;
+
+}
+#save_{
+  margin-top:20px;
+  font-size: 20px;
+  font-weight: bold;
+}
